@@ -7,3 +7,7 @@ Tohle je můj závěrečný projekt
 a tohle taky
 
 možná bude konflikt
+
+znova
+
+- a znova
