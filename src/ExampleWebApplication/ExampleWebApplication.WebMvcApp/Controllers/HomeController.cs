@@ -10,6 +10,7 @@ namespace ExampleWebApplication.WebMvcApp.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //Testuju commit
             _logger = logger;
         }
 
